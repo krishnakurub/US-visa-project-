@@ -22,3 +22,20 @@ pip install -r requirements.txt
 
 
 
+#### workflow
+
+1.constants
+2.entities
+3.components
+4.pipeline
+##  Export the enviroment varibles using git bash(it sets the mongodb url as enviromental variable)
+
+'''
+
+# export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+# export MONGO_URL=" mongodb+srv://mohan:krishna@cluster0.boljs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+'''
+
+
