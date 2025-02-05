@@ -37,6 +37,15 @@ pip install -r requirements.txt
 
 # export MONGO_URL=" mongodb+srv://mohan:krishna@cluster0.boljs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
+
+
+
+#  export AWS_ACCESS_KEY_ID =AKIAXA33UCJLYFAWTIUC
+
+
+# export AWS_SECRET_ACCESS_KEY =3cOfEjmIbDOHfUrvThZ1JI180jpR0D5oXL6Zx4JG
+
+
 '''
 
 
