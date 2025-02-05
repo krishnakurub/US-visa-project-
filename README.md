@@ -40,10 +40,11 @@ pip install -r requirements.txt
 
 
 
-#  export AWS_ACCESS_KEY_ID =AKIAXA33UCJLYFAWTIUC
+#  export AWS_ACCESS_KEY_ID = <AWS_ACCESS_KEY_ID>
 
 
-# export AWS_SECRET_ACCESS_KEY =3cOfEjmIbDOHfUrvThZ1JI180jpR0D5oXL6Zx4JG
+# export AWS_SECRET_ACCESS_KEY = <AWS_SECRET_ACCESS_KEY >
+# 
 
 
 '''
