@@ -29,6 +29,8 @@ pip install -r requirements.txt
 3.components
 4.pipeline
 5. Main file
+
+
 ##  Export the enviroment varibles using git bash(it sets the mongodb url as enviromental variable)
 
 '''
@@ -40,4 +42,4 @@ pip install -r requirements.txt
 
 '''
 
-
+6. update
