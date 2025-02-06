@@ -7,7 +7,7 @@ flowchart : whimsical
 mlops tools https:www.evidently.com/
 MongoDB:https://account.mongodb.com/account/login
 
-##### git commanda
+##### git command
 git add .
 git commit -m "updated"
 git push origin main
