@@ -43,3 +43,4 @@ pip install -r requirements.txt
 '''
 
 6. update
+7.village
